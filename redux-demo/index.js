@@ -4,7 +4,7 @@ const createStore = redux.createStore;
 const BUY_CAKE = "BUY_CAKE"; //STRING CONSTANTS TO AVOID TYPO ERROR
 
 // Action is to buy a  cake from cake shop
-
+// basics
 //action creator returns an action
 // action is an object with type property
 // action only describe what should happen
