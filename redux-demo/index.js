@@ -1,7 +1,7 @@
 // console.log("inside index.js")/
 const redux = require("redux");
 const createStore = redux.createStore;
-const BUY_CAKE = "BUY_CAKE"; //STRING CONSTANTS TO AVOID TYPO ERROR
+const BUY_CAKE = "BUY_CAKE"; //STRING CONSTANTS TO AVOID TYPO ERRORs
 
 // Action is to buy a  cake from cake shop
 // basics
