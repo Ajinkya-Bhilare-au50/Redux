@@ -1,1 +1,1 @@
-# Redux basics
+# Redux basics concept
